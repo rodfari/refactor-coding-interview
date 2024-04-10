@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/DatabaseContext.csproj": {}
+  },
+  "projects": {
+    "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/LegacyApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/LegacyApp.Application.csproj",
+        "projectName": "LegacyApp.Application",
+        "projectPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/LegacyApp.Application.csproj",
+        "packagesPath": "/Users/rodrigofarias/.nuget/packages/",
+        "outputPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigofarias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Domain/LegacyApp.Domain.csproj": {
+                "projectPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Domain/LegacyApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Domain/LegacyApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Domain/LegacyApp.Domain.csproj",
+        "projectName": "LegacyApp.Domain",
+        "projectPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Domain/LegacyApp.Domain.csproj",
+        "packagesPath": "/Users/rodrigofarias/.nuget/packages/",
+        "outputPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigofarias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/DatabaseContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/DatabaseContext.csproj",
+        "projectName": "DatabaseContext",
+        "projectPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/DatabaseContext.csproj",
+        "packagesPath": "/Users/rodrigofarias/.nuget/packages/",
+        "outputPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigofarias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/LegacyApp.Application.csproj": {
+                "projectPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/LegacyApp.Application.csproj"
+              },
+              "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Domain/LegacyApp.Domain.csproj": {
+                "projectPath": "/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Domain/LegacyApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

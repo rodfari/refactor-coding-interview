@@ -1,0 +1,15 @@
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/LegacyApp.Application.csproj.AssemblyReference.cache
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/LegacyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/LegacyApp.Application.AssemblyInfoInputs.cache
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/LegacyApp.Application.AssemblyInfo.cs
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/LegacyApp.Application.csproj.CoreCompileInputs.cache
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/bin/Debug/net7.0/LegacyApp.Application.deps.json
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/bin/Debug/net7.0/LegacyApp.Application.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/bin/Debug/net7.0/LegacyApp.Application.pdb
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/bin/Debug/net7.0/LegacyApp.Domain.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/bin/Debug/net7.0/LegacyApp.Domain.pdb
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/LegacyApp.Application.csproj.CopyComplete
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/LegacyApp.Application.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/refint/LegacyApp.Application.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/LegacyApp.Application.pdb
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Core/LegacyApp.Application/obj/Debug/net7.0/ref/LegacyApp.Application.dll

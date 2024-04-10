@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LegacyApp.Application/1.0.0": {
+        "dependencies": {
+          "LegacyApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LegacyApp.Application.dll": {}
+        }
+      },
+      "LegacyApp.Domain/1.0.0": {
+        "runtime": {
+          "LegacyApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LegacyApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LegacyApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

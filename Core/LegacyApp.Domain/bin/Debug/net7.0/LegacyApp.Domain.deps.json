@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LegacyApp.Domain/1.0.0": {
+        "runtime": {
+          "LegacyApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LegacyApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/bin/Debug/net7.0/DatabaseContext.deps.json
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/bin/Debug/net7.0/DatabaseContext.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/bin/Debug/net7.0/DatabaseContext.pdb
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/bin/Debug/net7.0/LegacyApp.Application.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/bin/Debug/net7.0/LegacyApp.Domain.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/bin/Debug/net7.0/LegacyApp.Domain.pdb
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/bin/Debug/net7.0/LegacyApp.Application.pdb
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/DatabaseContext.csproj.AssemblyReference.cache
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/DatabaseContext.AssemblyInfoInputs.cache
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/DatabaseContext.AssemblyInfo.cs
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/DatabaseContext.csproj.CoreCompileInputs.cache
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/DatabaseContext.csproj.CopyComplete
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/DatabaseContext.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/refint/DatabaseContext.dll
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/DatabaseContext.pdb
+/Users/rodrigofarias/Desktop/REFACTOR/refactor-coding-interview/Infrasctructure/DatabaseContext/obj/Debug/net7.0/ref/DatabaseContext.dll
